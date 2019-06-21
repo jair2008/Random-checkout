@@ -1,5 +1,5 @@
 # Random-checkout
-<h4 style="background-color:#ff6347;">, JAI [29007016102964],The following items are checked out:(<a href="https://href.li/?https://drive.google.com/file/d/15iK9zdFbjur7-rvBgdohmoFFr_5JVYkQ/view?usp=sharing" rel="noreferrer">pdf</a>)(<a href="https://href.li/?https://drive.google.com/file/d/1ZhGhRvzdDo5ij-JStmNDxtqEKQfCFAHi/view?usp=sharing" rel="noreferrer">pdf</a>)
+<h4 style="background-color:#ff6347;"> JAI [29007016102964],The following items are checked out:(<a href="https://href.li/?https://drive.google.com/file/d/15iK9zdFbjur7-rvBgdohmoFFr_5JVYkQ/view?usp=sharing" rel="noreferrer">pdf</a>)(<a href="https://href.li/?https://drive.google.com/file/d/1ZhGhRvzdDo5ij-JStmNDxtqEKQfCFAHi/view?usp=sharing" rel="noreferrer">pdf</a>)
 <table border="1">
 <tbody>
 <tr>
