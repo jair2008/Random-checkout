@@ -1,6 +1,6 @@
 # Random-checkout
 <h4 style="background-color:#000000;"> JAI [29007016102964],The following items are checked out:(<a href="https://href.li/?https://drive.google.com/file/d/15iK9zdFbjur7-rvBgdohmoFFr_5JVYkQ/view?usp=sharing" rel="noreferrer">pdf</a>)(<a href="https://href.li/?https://drive.google.com/file/d/1ZhGhRvzdDo5ij-JStmNDxtqEKQfCFAHi/view?usp=sharing" rel="noreferrer">pdf</a>)
-<table border="1">
+<h2><table border="1">
 <tbody>
 <tr>
 <th>Title</th>
@@ -10,7 +10,7 @@
 <th>Date Charged</th>
 <th>Date Due</th>
 </tr>
-<tr>
+<tr><h2>
 <td>Morse theoretic aspects of p-Laplacian type operators / Kanishka Perera, Ravi P. Agarwal, Donal O’Regan(<a href="https://href.li/?https://mega.nz/#!cHo31I5B!Wra0tlj2zza0ome9eJXjrq5ikZaxKixgfAEvNCPDjKA" rel="noreferrer">pdf</a>)</td>
 <td>Perera, Kanishka, 1969-</td>
 <td>QA 614.7 P47 2010</td>
